@@ -118,7 +118,7 @@ def server_run():
             server.serve_forever()
             
     except ConnectionResetError:
-        thumbnail_server_run()
+        server_run()
     finally:
         print('exit server')
 
