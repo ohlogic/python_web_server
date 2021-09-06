@@ -1,2 +1,2 @@
-# python_web_server
+# Python Web Server
 Simple python web server to handle GET and POST requests
